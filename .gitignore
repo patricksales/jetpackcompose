@@ -38,6 +38,9 @@ Thumbs.db
 # Kotlin/Native
 .konan/
 
+# Kotlin
+.kotlin/
+
 # Android
 *.apk
 *.aar
