@@ -14,6 +14,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import br.com.patrick.kmpcompose.features.converter.presentation.ui.ConverterScreen
 import org.jetbrains.compose.resources.painterResource
 
 import kmpcompose.composeapp.generated.resources.Res
@@ -23,26 +24,35 @@ import kmpcompose.composeapp.generated.resources.compose_multiplatform
 @Preview
 fun App() {
     MaterialTheme {
-        var showContent by remember { mutableStateOf(false) }
-        Column(
-            modifier = Modifier
-                .background(MaterialTheme.colorScheme.primaryContainer)
-                .safeContentPadding()
-                .fillMaxSize(),
-            horizontalAlignment = Alignment.CenterHorizontally,
-        ) {
-            Button(onClick = { showContent = !showContent }) {
-                Text("Click me!")
-            }
-            AnimatedVisibility(showContent) {
-                val greeting = remember { Greeting().greet() }
+        var currentScreen by remember { mutableStateOf("main") }
+        when (currentScreen) {
+            "main" -> {
                 Column(
-                    modifier = Modifier.fillMaxWidth(),
+                    modifier = Modifier
+                        .background(MaterialTheme.colorScheme.primaryContainer)
+                        .safeContentPadding()
+                        .fillMaxSize(),
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
-                    Image(painterResource(Res.drawable.compose_multiplatform), null)
-                    Text("Compose: $greeting")
+                    Button(onClick = {
+                        currentScreen = "converter"
+                    }) {
+                        Text("Click me!")
+                    }
+                    AnimatedVisibility(true) { // Always visible for main content, or adjust as needed
+                        val greeting = remember { Greeting().greet() }
+                        Column(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalAlignment = Alignment.CenterHorizontally,
+                        ) {
+                            Image(painterResource(Res.drawable.compose_multiplatform), null)
+                            Text("Compose: $greeting")
+                        }
+                    }
                 }
+            }
+            "converter" -> {
+                ConverterScreen()
             }
         }
     }
