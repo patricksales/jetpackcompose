@@ -30,7 +30,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import androidx.lifecycle.viewmodel.compose.viewModel
 import br.com.patrick.kmpcompose.components.CurrencyField
 import br.com.patrick.kmpcompose.features.converter.presentation.ui.model.ConverterFormEvent
 import br.com.patrick.kmpcompose.features.converter.presentation.ui.model.ConverterFormState
@@ -39,9 +38,10 @@ import kmpcompose.composeapp.generated.resources.Res
 import kmpcompose.composeapp.generated.resources.ic_south
 import org.jetbrains.compose.resources.painterResource
 
+
 @Composable
 fun ConverterScreen() {
-    val viewModel = viewModel<ConverterViewModel>()
+    val viewModel = koinViewModel<ConverterViewModel>()
 
     val formState by viewModel.formState.collectAsStateWithLifecycle()
     val conversionState by viewModel.conversionState.collectAsStateWithLifecycle()
