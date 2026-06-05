@@ -1,60 +1,79 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
-
-# Build outputs
-build/
+# === Build and caches ===
+# Gradle / build artifacts
+**/build/
 .gradle/
 
-# IDE
+# Keep gradle wrapper files tracked (do NOT ignore the wrapper jar/properties)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Kotlin / Kotlin/Native / KMP caches
+.konan/
+.cinterop/
+.cocoapods/
+.kotlin/
+.gradle-kotlin-dsl/
+.kotlinc/
+
+# Temporary / output
+*.class
+*.log
+*.tmp
+tmp/
+
+# === IDEs ===
+# IntelliJ / Android Studio
 .idea/
 *.iml
+*.ipr
+*.iws
 
-# OS
+# VS Code
+.vscode/
+
+# === OS ===
 .DS_Store
 Thumbs.db
 
-# Kotlin/Native
-.konan/
-
-# Kotlin
-.kotlin/
-
-# Android
+# === Android specific ===
+local.properties          # contains local SDK paths - should not be committed
 *.apk
-*.aar
+*.ap_
+*.aab
+*.keystore
 
-# iOS
+# Android Studio Captures
+captures/
+
+# === Kotlin Multiplatform / Native (iOS) ===
+# K/N framework outputs and Xcode build products
+**/*.framework
+**/*.dSYM
+**/*.xcframework
+
+# CocoaPods/Swift Package Manager artifacts
+Pods/
+Podfile.lock
+Package.resolved
+.build/
+
+# === Xcode / iOS ===
+# User-specific and derived data
 xcuserdata/
+*.xcuserstate
 *.xcscmblueprint
 DerivedData/
+*.playground/
+*.xcworkspace/xcuserdata/
 
-# Local properties
-local.properties
+# Keep shared workspace/schemes tracked (do not ignore xcshareddata)
+# /.xcworkspace/xcshareddata/   <-- DO NOT add this to ignore (shared schemes often needed)
 
-# Logs
-*.log
+# Xcode build directories
+**/Build/
+**/build/   # already covered above but harmless to repeat
 
-# Compose
-captures/
+# === Misc / Security ===
+*.env
+*.keystore
+/secrets.properties

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "br.com.patrick.kmpcompose.composeApp-mergeDebugResources-41:/values-v30/values-v30.xml",
+            "outputFile": "br.com.patrick.kmpcompose.composeApp-mergeDebugResources-46:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/b857b513c64def071a5a8aa95184e632/transformed/material3/res/values-v30/values-v30.xml",
+                    "source": "/Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/787cb78874a026c6926216bccca63285/transformed/material3/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,48 +1,53 @@
-br.com.patrick.kmpcompose.composeApp-annotation-experimental-1.4.1-0 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/057b582e313e5920e93541bd69ab8501/transformed/annotation-experimental-1.4.1/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-process-2.9.4-1 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/05a7c50fcb1972d2ccd056f7ccf8b593/transformed/lifecycle-process-2.9.4/res
-br.com.patrick.kmpcompose.composeApp-material-1.0.0-2 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/0931de3c947d69551ce1b88f4b605a6e/transformed/material-1.0.0/res
-br.com.patrick.kmpcompose.composeApp-core-runtime-2.2.0-3 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/0bcd71d06439bbb4ce941041b5e982f6/transformed/core-runtime-2.2.0/res
-br.com.patrick.kmpcompose.composeApp-startup-runtime-1.1.1-4 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/0da10effdbc1892640d2c1a0631af9e6/transformed/startup-runtime-1.1.1/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-2.9.4-5 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/0eaafdb560dcfe23c532f011b0f3496f/transformed/lifecycle-livedata-2.9.4/res
-br.com.patrick.kmpcompose.composeApp-ui-graphics-6 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/177e82bb2785cb231209e9f33e66e793/transformed/ui-graphics/res
-br.com.patrick.kmpcompose.composeApp-activity-1.12.2-7 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/2584dee612fa22a5e4d97934f3d5d6d2/transformed/activity-1.12.2/res
-br.com.patrick.kmpcompose.composeApp-core-viewtree-1.0.0-8 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/2c8edbeb4ef1fb7459accd1c8fb6c2b8/transformed/core-viewtree-1.0.0/res
-br.com.patrick.kmpcompose.composeApp-runtime-saveable-9 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/3021c33dbf0f501245fd2079b58c0740/transformed/runtime-saveable/res
-br.com.patrick.kmpcompose.composeApp-ui-10 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/30623a012f0a78648ee294814d1ea0e5/transformed/ui/res
-br.com.patrick.kmpcompose.composeApp-savedstate-release-11 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/3d6ea03d1cac32bf6d5aad4e56962f5e/transformed/savedstate-release/res
-br.com.patrick.kmpcompose.composeApp-transition-1.6.0-12 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/40da4ef674c7d5f0aaa934fb968a8d31/transformed/transition-1.6.0/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-core-2.9.4-13 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/4651f833590c251aa8528041a7d093b5/transformed/lifecycle-livedata-core-2.9.4/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-core-ktx-2.9.4-14 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/49091cdb30e5e40432756523cfdc8800/transformed/lifecycle-livedata-core-ktx-2.9.4/res
-br.com.patrick.kmpcompose.composeApp-customview-poolingcontainer-1.0.0-15 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/51de81a36366ea4f6013cbe139fd2767/transformed/customview-poolingcontainer-1.0.0/res
-br.com.patrick.kmpcompose.composeApp-activity-ktx-1.12.2-16 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/572457f3fe407e7979096097b36cc67e/transformed/activity-ktx-1.12.2/res
-br.com.patrick.kmpcompose.composeApp-core-ktx-1.16.0-17 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/616c4812ccac7ceff160cc7fb8add086/transformed/core-ktx-1.16.0/res
-br.com.patrick.kmpcompose.composeApp-profileinstaller-1.4.0-18 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/64114fa62763caf9c973f7cf78b98a26/transformed/profileinstaller-1.4.0/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-ktx-2.9.4-19 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/6b09efc324a0f7c884037291de0d5612/transformed/lifecycle-viewmodel-ktx-2.9.4/res
-br.com.patrick.kmpcompose.composeApp-ui-text-20 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/747bcbe232d01c0187927685d52ebb7d/transformed/ui-text/res
-br.com.patrick.kmpcompose.composeApp-material-icons-core-1.0.0-21 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/82da1538628ea41431df3bfe6e18364f/transformed/material-icons-core-1.0.0/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-runtime-compose-release-22 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/888df50194664239438fea8f0426887a/transformed/lifecycle-runtime-compose-release/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-release-23 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/8b9303287ab687200a8fefa2db9d479e/transformed/lifecycle-viewmodel-release/res
-br.com.patrick.kmpcompose.composeApp-navigationevent-24 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/960852c765a3a3a5fd7252982f0bb331/transformed/navigationevent/res
-br.com.patrick.kmpcompose.composeApp-graphics-path-1.0.1-25 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/a5877f5cbd30728e198158d2ca074c7a/transformed/graphics-path-1.0.1/res
-br.com.patrick.kmpcompose.composeApp-foundation-26 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/aaa9aff2c71a40aa82bb6977ec6d7cb4/transformed/foundation/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-savedstate-release-27 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/b13524c92db6c2df31c6f97c74b683c9/transformed/lifecycle-viewmodel-savedstate-release/res
-br.com.patrick.kmpcompose.composeApp-ui-backhandler-debug-28 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/b265f428404ba7436d55362cc7eb7ad1/transformed/ui-backhandler-debug/res
-br.com.patrick.kmpcompose.composeApp-material3-29 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/b857b513c64def071a5a8aa95184e632/transformed/material3/res
-br.com.patrick.kmpcompose.composeApp-activity-compose-1.12.2-30 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/c01b564434075b852fe42a2b41ea8316/transformed/activity-compose-1.12.2/res
-br.com.patrick.kmpcompose.composeApp-window-1.5.0-31 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/c9b88afee3caaa3389d513bbd8aa0156/transformed/window-1.5.0/res
-br.com.patrick.kmpcompose.composeApp-core-1.16.0-32 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/d8b4af69a30b602c4638562eead231a5/transformed/core-1.16.0/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-compose-release-33 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/e3d8c1388dd11c328fd627ee4215eb2a/transformed/lifecycle-viewmodel-compose-release/res
-br.com.patrick.kmpcompose.composeApp-savedstate-ktx-1.3.3-34 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/e51d2f5b1e9357091e780906f65ea0ce/transformed/savedstate-ktx-1.3.3/res
-br.com.patrick.kmpcompose.composeApp-lifecycle-runtime-release-35 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/e78e978d8d7266184b19fde1421fb8f4/transformed/lifecycle-runtime-release/res
-br.com.patrick.kmpcompose.composeApp-tracing-1.2.0-36 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/ed29885712bc762b8fac622150af9002/transformed/tracing-1.2.0/res
-br.com.patrick.kmpcompose.composeApp-ui-tooling-37 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/f5ddb43ec1a648d0d7a4089d8d67d2c1/transformed/ui-tooling/res
-br.com.patrick.kmpcompose.composeApp-emoji2-1.4.0-38 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/fdbef7b17c160a03638f4a5697301771/transformed/emoji2-1.4.0/res
-br.com.patrick.kmpcompose.composeApp-pngs-39 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/build/generated/res/pngs/debug
-br.com.patrick.kmpcompose.composeApp-resValues-40 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/build/generated/res/resValues/debug
-br.com.patrick.kmpcompose.composeApp-packageDebugResources-41 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-br.com.patrick.kmpcompose.composeApp-packageDebugResources-42 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-br.com.patrick.kmpcompose.composeApp-debug-43 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
-br.com.patrick.kmpcompose.composeApp-androidDebug-44 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/src/androidDebug/res
-br.com.patrick.kmpcompose.composeApp-androidMain-45 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/src/androidMain/res
-br.com.patrick.kmpcompose.composeApp-debug-46 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/src/debug/res
-br.com.patrick.kmpcompose.composeApp-main-47 /Users/patricksalespuppim/Documents/Projetos GIT/kmpcompose/composeApp/src/main/res
+br.com.patrick.kmpcompose.composeApp-material-1.0.0-0 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/07927a25398aecacc43c7a45de07464a/transformed/material-1.0.0/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-savedstate-release-1 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/0b617b2fd7f6c460526692daca2db41b/transformed/lifecycle-viewmodel-savedstate-release/res
+br.com.patrick.kmpcompose.composeApp-tracing-1.2.0-2 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/183d50f8d33ef86060bfa48c8cb7a0dc/transformed/tracing-1.2.0/res
+br.com.patrick.kmpcompose.composeApp-customview-poolingcontainer-1.0.0-3 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/2112e903e2f511fd39dfa73fd0f5de34/transformed/customview-poolingcontainer-1.0.0/res
+br.com.patrick.kmpcompose.composeApp-graphics-path-1.0.1-4 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/2127a4ab74b6c167c9b7b0a5e65b36ac/transformed/graphics-path-1.0.1/res
+br.com.patrick.kmpcompose.composeApp-appcompat-1.6.1-5 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/25d6aa040fb6183bc017b9321beb6a31/transformed/appcompat-1.6.1/res
+br.com.patrick.kmpcompose.composeApp-fragment-ktx-1.6.2-6 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/31e7099751f3368c664d8439fd8d21d4/transformed/fragment-ktx-1.6.2/res
+br.com.patrick.kmpcompose.composeApp-activity-1.12.2-7 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/37ca25cb901800799eca579aab48f028/transformed/activity-1.12.2/res
+br.com.patrick.kmpcompose.composeApp-activity-ktx-1.12.2-8 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/38ce0be8687095642eb21a48b154d43f/transformed/activity-ktx-1.12.2/res
+br.com.patrick.kmpcompose.composeApp-emoji2-1.4.0-9 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/3d907db1a6fdf58fb3ee803e74a36d06/transformed/emoji2-1.4.0/res
+br.com.patrick.kmpcompose.composeApp-ui-text-10 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/4e9fc064d9da4f924e5e82b91c7839d1/transformed/ui-text/res
+br.com.patrick.kmpcompose.composeApp-profileinstaller-1.4.0-11 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/553992036e7d4baac6592738aab0bdbd/transformed/profileinstaller-1.4.0/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-compose-release-12 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/63bcbbdc2adb11ea37a6174e29f02df2/transformed/lifecycle-viewmodel-compose-release/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-core-2.9.4-13 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/66d4e4560face7813bd200cd1a0562a9/transformed/lifecycle-livedata-core-2.9.4/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-release-14 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/691859f7b52d0675eae742d446526540/transformed/lifecycle-viewmodel-release/res
+br.com.patrick.kmpcompose.composeApp-emoji2-views-helper-1.4.0-15 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/6ca9a731502554e339fe34ee1a2e5785/transformed/emoji2-views-helper-1.4.0/res
+br.com.patrick.kmpcompose.composeApp-savedstate-release-16 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/6f2a07a7c3aff4c7b355f88fb5c92ba8/transformed/savedstate-release/res
+br.com.patrick.kmpcompose.composeApp-core-runtime-2.2.0-17 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/705fbe43877c1c924f7b4fac9fcddea8/transformed/core-runtime-2.2.0/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-core-ktx-2.9.4-18 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/72b8b4c82ade1a07cdb68f5ec154ca52/transformed/lifecycle-livedata-core-ktx-2.9.4/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-runtime-release-19 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/77caf6c189050828b90e39802effa1ba/transformed/lifecycle-runtime-release/res
+br.com.patrick.kmpcompose.composeApp-material3-20 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/787cb78874a026c6926216bccca63285/transformed/material3/res
+br.com.patrick.kmpcompose.composeApp-runtime-saveable-21 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/7b6d5303aaceb0df887c3b167f1d7a5c/transformed/runtime-saveable/res
+br.com.patrick.kmpcompose.composeApp-startup-runtime-1.1.1-22 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/8cef9a6f69be04ae3bc236152b19aef3/transformed/startup-runtime-1.1.1/res
+br.com.patrick.kmpcompose.composeApp-foundation-23 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/963a2f5475456476f2a34ccc240d9e2a/transformed/foundation/res
+br.com.patrick.kmpcompose.composeApp-appcompat-resources-1.6.1-24 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/969606f61d09f112214ba1bd40c59592/transformed/appcompat-resources-1.6.1/res
+br.com.patrick.kmpcompose.composeApp-activity-compose-1.12.2-25 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/96a8f81c9a53f1ecf75e199ef961f95c/transformed/activity-compose-1.12.2/res
+br.com.patrick.kmpcompose.composeApp-core-ktx-1.16.0-26 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/99aac20104d69c3b6f546d637957cb6f/transformed/core-ktx-1.16.0/res
+br.com.patrick.kmpcompose.composeApp-ui-backhandler-debug-27 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/a1fd3e67dc601fe8bf5873366ce2d03f/transformed/ui-backhandler-debug/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-process-2.9.4-28 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/a43338e3f0d04fabeb486e86b674ade4/transformed/lifecycle-process-2.9.4/res
+br.com.patrick.kmpcompose.composeApp-material-icons-core-1.0.0-29 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/a7cee06610198c729bc135eae52ca0ed/transformed/material-icons-core-1.0.0/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-viewmodel-ktx-2.9.4-30 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/aeb57fd14f5d299467f8732480531b8f/transformed/lifecycle-viewmodel-ktx-2.9.4/res
+br.com.patrick.kmpcompose.composeApp-ui-31 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/bb3f287530dac427d9318e50bb95d676/transformed/ui/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-livedata-2.9.4-32 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/bc75658bb89bbcbb422ca822e594c3b8/transformed/lifecycle-livedata-2.9.4/res
+br.com.patrick.kmpcompose.composeApp-ui-tooling-33 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/bd18801c6508fc6c5ffb7e02f8e16d00/transformed/ui-tooling/res
+br.com.patrick.kmpcompose.composeApp-lifecycle-runtime-compose-release-34 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/c1264cc14b4208699a30f2b1baaa3102/transformed/lifecycle-runtime-compose-release/res
+br.com.patrick.kmpcompose.composeApp-transition-1.6.0-35 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/c90fada9b66d00f88789131583cffe34/transformed/transition-1.6.0/res
+br.com.patrick.kmpcompose.composeApp-ui-graphics-36 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/d9e2fef4993572d823da5f2e7aa168fd/transformed/ui-graphics/res
+br.com.patrick.kmpcompose.composeApp-window-1.5.0-37 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/e0e9a263deb75d18a342581c169e86b4/transformed/window-1.5.0/res
+br.com.patrick.kmpcompose.composeApp-core-1.16.0-38 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/e5d9f043dd6c029c14e3008711484446/transformed/core-1.16.0/res
+br.com.patrick.kmpcompose.composeApp-core-viewtree-1.0.0-39 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/ec49ad01ebef2ab37bb169f1bf0fea04/transformed/core-viewtree-1.0.0/res
+br.com.patrick.kmpcompose.composeApp-navigationevent-40 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/ee024b10798b3f2f2279f2d5c7a55174/transformed/navigationevent/res
+br.com.patrick.kmpcompose.composeApp-savedstate-ktx-1.3.3-41 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/ee13809d28a7b7fab97e4876306eeffa/transformed/savedstate-ktx-1.3.3/res
+br.com.patrick.kmpcompose.composeApp-fragment-1.6.2-42 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/efea2302259265ccf4eb926957341eeb/transformed/fragment-1.6.2/res
+br.com.patrick.kmpcompose.composeApp-annotation-experimental-1.4.1-43 /Users/patricksalespuppim/.gradle/caches/8.14.3/transforms/f30f30b165210743c665459d1ab8974d/transformed/annotation-experimental-1.4.1/res
+br.com.patrick.kmpcompose.composeApp-pngs-44 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/build/generated/res/pngs/debug
+br.com.patrick.kmpcompose.composeApp-resValues-45 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/build/generated/res/resValues/debug
+br.com.patrick.kmpcompose.composeApp-packageDebugResources-46 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+br.com.patrick.kmpcompose.composeApp-packageDebugResources-47 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+br.com.patrick.kmpcompose.composeApp-debug-48 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+br.com.patrick.kmpcompose.composeApp-androidDebug-49 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/src/androidDebug/res
+br.com.patrick.kmpcompose.composeApp-androidMain-50 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/src/androidMain/res
+br.com.patrick.kmpcompose.composeApp-debug-51 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/src/debug/res
+br.com.patrick.kmpcompose.composeApp-main-52 /Users/patricksalespuppim/Documents/Projetos GIT/jetpackcompose/composeApp/src/main/res
