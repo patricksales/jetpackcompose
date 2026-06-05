@@ -32,6 +32,7 @@ kotlin {
 
             implementation(libs.ktor.client.android)
             implementation(libs.koin.android)
+            implementation(libs.koin.androidx.compose)
         }
         commonMain.dependencies {
             implementation(libs.compose.runtime)
@@ -47,15 +48,8 @@ kotlin {
             implementation(libs.ktor.client.core)
             implementation(libs.ktor.client.content.negotiation) // For JSON handling
             implementation(libs.ktor.serialization.kotlinx.json)
-//            implementation(libs.ktor.client.core)
-//            implementation(libs.ktor.client.okhttp)
-
             implementation(libs.ktor.client.logging)
-//            implementation(libs.ktor.client.content.negotiation)
-//            implementation(libs.ktor.serialization.kotlinx.json)
-
             implementation(libs.koin.core)
-            implementation(libs.koin.compose)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)

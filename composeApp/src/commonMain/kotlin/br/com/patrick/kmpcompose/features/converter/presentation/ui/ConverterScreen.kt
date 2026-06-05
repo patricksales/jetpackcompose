@@ -37,11 +37,11 @@ import br.com.patrick.kmpcompose.features.converter.presentation.viewmodel.Conve
 import kmpcompose.composeapp.generated.resources.Res
 import kmpcompose.composeapp.generated.resources.ic_south
 import org.jetbrains.compose.resources.painterResource
-
+import org.koin.androidx.compose.getViewModel
 
 @Composable
 fun ConverterScreen() {
-    val viewModel = koinViewModel<ConverterViewModel>()
+    val viewModel : ConverterViewModel = getViewModel()
 
     val formState by viewModel.formState.collectAsStateWithLifecycle()
     val conversionState by viewModel.conversionState.collectAsStateWithLifecycle()
