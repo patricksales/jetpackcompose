@@ -19,7 +19,23 @@ internal val Res.drawable.compose_multiplatform: DrawableResource by lazy {
       ))
     }
 
+@delegate:ResourceContentHash(923_621_242)
+internal val Res.drawable.ic_south: DrawableResource by lazy {
+      DrawableResource("drawable:ic_south", setOf(
+        ResourceItem(setOf(), "${MD}drawable/ic_south.xml", -1, -1),
+      ))
+    }
+
+@delegate:ResourceContentHash(1_356_935_135)
+internal val Res.drawable.ic_stat: DrawableResource by lazy {
+      DrawableResource("drawable:ic_stat", setOf(
+        ResourceItem(setOf(), "${MD}drawable/ic_stat.xml", -1, -1),
+      ))
+    }
+
 @InternalResourceApi
 internal fun _collectCommonMainDrawable0Resources(map: MutableMap<String, DrawableResource>) {
   map.put("compose_multiplatform", Res.drawable.compose_multiplatform)
+  map.put("ic_south", Res.drawable.ic_south)
+  map.put("ic_stat", Res.drawable.ic_stat)
 }
